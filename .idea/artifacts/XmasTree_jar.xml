@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="XmasTree:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/XmasTree_jar</output-path>
+    <root id="archive" name="XmasTree.jar">
+      <element id="module-output" name="XmasTree" />
+      <element id="extracted-dir" path="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.13.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.13.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.13.3-sources.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
